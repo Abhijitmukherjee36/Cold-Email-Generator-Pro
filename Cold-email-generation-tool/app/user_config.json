@@ -1,0 +1,10 @@
+{
+    "sender_name": "Your Name",
+    "sender_title": "Your Professional Title",
+    "company_name": "Your Company Name",
+    "company_type": "Your Industry/Service Type",
+    "company_description": "Describe what your company does, your mission, and the value you provide to clients.",
+    "company_achievements": "List your key achievements, notable clients, success metrics, awards, or any other credibility indicators.",
+    "email_tone": "professional",
+    "signature_style": "standard"
+}
